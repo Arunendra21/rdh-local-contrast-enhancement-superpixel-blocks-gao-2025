@@ -1,0 +1,188 @@
+{
+  "mr_brain": {
+    "2": {
+      "actual_iters": 2,
+      "embedded_bits": 20383,
+      "bpp_roi": 0.11696,
+      "whole_psnr": 44.216,
+      "roi_rms_orig": 55.276,
+      "roi_rms_enh": 56.859,
+      "roi_entropy_orig": 6.1194,
+      "roi_entropy_enh": 6.2363,
+      "roi_ambe": 0.177,
+      "reversible": true
+    },
+    "3": {
+      "actual_iters": 3,
+      "embedded_bits": 29873,
+      "bpp_roi": 0.17141,
+      "whole_psnr": 41.89,
+      "roi_rms_orig": 55.276,
+      "roi_rms_enh": 57.251,
+      "roi_entropy_orig": 6.1194,
+      "roi_entropy_enh": 6.2908,
+      "roi_ambe": 0.852,
+      "reversible": true
+    },
+    "4": {
+      "actual_iters": 4,
+      "embedded_bits": 38992,
+      "bpp_roi": 0.22374,
+      "whole_psnr": 39.592,
+      "roi_rms_orig": 55.276,
+      "roi_rms_enh": 57.648,
+      "roi_entropy_orig": 6.1194,
+      "roi_entropy_enh": 6.3431,
+      "roi_ambe": 1.525,
+      "reversible": true
+    },
+    "5": {
+      "actual_iters": 5,
+      "embedded_bits": 47554,
+      "bpp_roi": 0.27286,
+      "whole_psnr": 37.68,
+      "roi_rms_orig": 55.276,
+      "roi_rms_enh": 58.443,
+      "roi_entropy_orig": 6.1194,
+      "roi_entropy_enh": 6.3922,
+      "roi_ambe": 1.613,
+      "reversible": true
+    },
+    "6": {
+      "actual_iters": 6,
+      "embedded_bits": 55601,
+      "bpp_roi": 0.31904,
+      "whole_psnr": 36.188,
+      "roi_rms_orig": 55.276,
+      "roi_rms_enh": 58.843,
+      "roi_entropy_orig": 6.1194,
+      "roi_entropy_enh": 6.4384,
+      "roi_ambe": 2.287,
+      "reversible": true
+    }
+  },
+  "mr_brain2": {
+    "2": {
+      "actual_iters": 2,
+      "embedded_bits": 20171,
+      "bpp_roi": 0.11574,
+      "whole_psnr": 45.131,
+      "roi_rms_orig": 55.291,
+      "roi_rms_enh": 56.646,
+      "roi_entropy_orig": 6.1188,
+      "roi_entropy_enh": 6.2346,
+      "roi_ambe": 0.524,
+      "reversible": true
+    },
+    "3": {
+      "actual_iters": 3,
+      "embedded_bits": 29701,
+      "bpp_roi": 0.17042,
+      "whole_psnr": 41.893,
+      "roi_rms_orig": 55.291,
+      "roi_rms_enh": 57.268,
+      "roi_entropy_orig": 6.1188,
+      "roi_entropy_enh": 6.2893,
+      "roi_ambe": 0.847,
+      "reversible": true
+    },
+    "4": {
+      "actual_iters": 4,
+      "embedded_bits": 38824,
+      "bpp_roi": 0.22277,
+      "whole_psnr": 39.599,
+      "roi_rms_orig": 55.291,
+      "roi_rms_enh": 57.665,
+      "roi_entropy_orig": 6.1188,
+      "roi_entropy_enh": 6.3416,
+      "roi_ambe": 1.521,
+      "reversible": true
+    },
+    "5": {
+      "actual_iters": 5,
+      "embedded_bits": 47578,
+      "bpp_roi": 0.273,
+      "whole_psnr": 37.684,
+      "roi_rms_orig": 55.291,
+      "roi_rms_enh": 58.46,
+      "roi_entropy_orig": 6.1188,
+      "roi_entropy_enh": 6.3918,
+      "roi_ambe": 1.607,
+      "reversible": true
+    },
+    "6": {
+      "actual_iters": 5,
+      "embedded_bits": 47578,
+      "bpp_roi": 0.273,
+      "whole_psnr": 37.682,
+      "roi_rms_orig": 55.291,
+      "roi_rms_enh": 58.461,
+      "roi_entropy_orig": 6.1188,
+      "roi_entropy_enh": 6.3918,
+      "roi_ambe": 1.607,
+      "reversible": true
+    }
+  },
+  "ct_body": {
+    "2": {
+      "actual_iters": 2,
+      "embedded_bits": 49075,
+      "bpp_roi": 0.19862,
+      "whole_psnr": 44.658,
+      "roi_rms_orig": 37.678,
+      "roi_rms_enh": 38.833,
+      "roi_entropy_orig": 5.1958,
+      "roi_entropy_enh": 5.3944,
+      "roi_ambe": 0.699,
+      "reversible": true
+    },
+    "3": {
+      "actual_iters": 3,
+      "embedded_bits": 71662,
+      "bpp_roi": 0.29003,
+      "whole_psnr": 41.077,
+      "roi_rms_orig": 37.678,
+      "roi_rms_enh": 39.203,
+      "roi_entropy_orig": 5.1958,
+      "roi_entropy_enh": 5.4858,
+      "roi_ambe": 1.432,
+      "reversible": true
+    },
+    "4": {
+      "actual_iters": 4,
+      "embedded_bits": 93476,
+      "bpp_roi": 0.37832,
+      "whole_psnr": 38.906,
+      "roi_rms_orig": 37.678,
+      "roi_rms_enh": 39.992,
+      "roi_entropy_orig": 5.1958,
+      "roi_entropy_enh": 5.5741,
+      "roi_ambe": 1.397,
+      "reversible": true
+    },
+    "5": {
+      "actual_iters": 4,
+      "embedded_bits": 93476,
+      "bpp_roi": 0.37832,
+      "whole_psnr": 38.906,
+      "roi_rms_orig": 37.678,
+      "roi_rms_enh": 39.991,
+      "roi_entropy_orig": 5.1958,
+      "roi_entropy_enh": 5.5741,
+      "roi_ambe": 1.398,
+      "reversible": true
+    },
+    "6": {
+      "actual_iters": 4,
+      "embedded_bits": 93476,
+      "bpp_roi": 0.37832,
+      "whole_psnr": 38.906,
+      "roi_rms_orig": 37.678,
+      "roi_rms_enh": 39.991,
+      "roi_entropy_orig": 5.1958,
+      "roi_entropy_enh": 5.574,
+      "roi_ambe": 1.398,
+      "reversible": true
+    }
+  }
+}
